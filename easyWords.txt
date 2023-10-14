@@ -1,0 +1,4 @@
+city 1.5
+cat 1.0
+flower 2.0
+dog 1.0

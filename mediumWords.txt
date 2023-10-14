@@ -1,0 +1,4 @@
+difficulty 3.5
+reflector 3.0
+building 2.5
+computer 2.5

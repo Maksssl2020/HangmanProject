@@ -1,0 +1,4 @@
+microwave 4.5
+syndrome 4.0
+thumbscrew 5.0
+frizzled 4.0
